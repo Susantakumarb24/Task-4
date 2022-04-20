@@ -4,7 +4,7 @@
 .first_container{
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
-    background-color: rgb(136, 152, 136);
+    background-color: rgb(11, 26, 11);
     clip-path: polygon(0 0%,100% 0%,100% 85%,0% 100%);
     height: auto;
 }
@@ -12,13 +12,13 @@
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
     border:4px dotted white;
-    background-color: #9203f8;
+    /* background-color: #9203f8; */
     height: 600px;
 }
 .logo{
     width: 300px;
     height: 55px;
-    background-color: #119af6;
+    background-color: #0a1014;
     margin-top: -30px;
     
 }
@@ -57,7 +57,7 @@ img{
 
 
 .second_container{
-    background-color: rgb(138, 61, 61);
+    background-color: rgb(225, 198, 142);
     clip-path: polygon(0 16%,100% 0%,100% 85%,0% 100%);
     margin-top: -98px;
     /* height: auto; */
@@ -65,7 +65,7 @@ img{
 .second_container_inner{
     border-left: 4px dotted white;
     border-right: 4px dotted white;
-    background-color: #33f798;
+    /* background-color: #33f798; */
     margin-top: -50px;
     padding-top: 60px;
     height: 600px;
@@ -76,7 +76,7 @@ img{
  /* -------------------------------- */
 
  .third_container{
-    background-color: rgb(3, 204, 254);
+    background-color: rgb(56, 23, 67);
     clip-path: polygon(0 16%,100% 0%,100% 85%,0% 100%);
     margin-top: -98px;
     /* height: auto; */
@@ -84,7 +84,7 @@ img{
 .third_container_inner{
     border-left: 4px dotted white;
     border-right: 4px dotted white;
-    background-color: #d8e706;
+    /* background-color: #d8e706; */
     margin-top: -45px;
     padding-top: 60px;
     height: 600px;
