@@ -57,7 +57,11 @@ img{
 
 
 .second_container{
-    background-color: rgb(225, 198, 142);
+    /* background-color: rgb(225, 198, 142); */
+    background:linear-gradient(0deg, rgb(223, 205, 170,0.6), rgba(237, 211, 159, 0.6)), url("mountain.jpg");
+    background-size:cover;
+    background-size: cover;
+    position: relative;
     clip-path: polygon(0 16%,100% 0%,100% 85%,0% 100%);
     margin-top: -98px;
     /* height: auto; */
@@ -77,6 +81,7 @@ img{
 
  .third_container{
     background-color: rgb(56, 23, 67);
+    
     clip-path: polygon(0 16%,100% 0%,100% 85%,0% 100%);
     margin-top: -98px;
     /* height: auto; */
@@ -104,7 +109,11 @@ img{
 /* ---------------------------------------------------------- */
 
 .fourth_container{
-    background-color: rgb(2, 187, 27);
+    /* background-color: rgb(2, 187, 27); */
+    background:linear-gradient(0deg, rgba(240, 171, 106, 0.9), rgba(241, 192, 122, 0.9)), url("phone.jpg");
+    background-size:cover;
+    background-size: cover;
+    position: relative;
     clip-path: polygon(0 16%,100% 0%,100% 85%,0% 100%);
     margin-top: -98px;
     /* height: auto; */
@@ -112,7 +121,7 @@ img{
 .fourth_container_inner{
     border-left: 4px dotted white;
     border-right: 4px dotted white;
-    background-color: #ff00c8;
+    /* background-color: #ff00c8; */
     margin-top: -45px;
     padding-top: 60px;
     height: 600px;
@@ -125,7 +134,7 @@ img{
 /* ---------------------------------------------- */
 
 .fifth_container{
-    background-color: rgb(238, 255, 0);
+    background-color: rgba(184, 67, 124, 0.825);
     clip-path: polygon(0 16%,100% 0%,100% 85%,0% 100%);
     margin-top: -98px;
     /* height: auto; */
@@ -133,7 +142,7 @@ img{
 .fifth_container_inner{
     border-left: 4px dotted white;
     border-right: 4px dotted white;
-    background-color: #00ffea;
+    /* background-color: #00ffea; */
     margin-top: -45px;
     padding-top: 60px;
     height: 600px;
@@ -143,7 +152,11 @@ img{
 /* ============================================== */
 
 .sixth_container{
-    background-color: rgb(73, 255, 140);
+    /* background-color: rgb(73, 255, 140); */
+    background:linear-gradient(0deg, rgba(217, 212, 202, 0.9), rgba(172, 169, 162, 0.6)), url("topmountain.jpg");
+    background-size:cover;
+    background-size: cover;
+    position: relative;
     clip-path: polygon(0 16%,100% 0%,100% 85%,0% 100%);
     margin-top: -98px;
     /* height: auto; */
@@ -151,10 +164,40 @@ img{
 .sixth_container_inner{
     border-left: 4px dotted white;
     border-right: 4px dotted white;
-    background-color: #ff8c00;
+    /* background-color: #ff8c00; */
     margin-top: -45px;
     padding-top: 60px;
     height: 600px;
+}
+.desc6{
+    font-size: 20px ;
+    margin-top: -70px;
+}
+
+
+
+/* ============================================== */
+
+.seventh_container{
+    /* background-color: rgb(73, 255, 140); */
+    background:linear-gradient(0deg, rgb(255, 121, 190,0.8), rgba(253, 108, 183, 0.8)), url("loading.jpg");
+    background-size:cover;
+    background-size: cover;
+    position: relative;
+    clip-path: polygon(0 16%,100% 0%,100% 85%,0% 100%);
+    margin-top: -98px;
+    /* height: auto; */
+}
+.seventh_container_inner{
+    border-left: 4px dotted white;
+    border-right: 4px dotted white;
+    /* background-color: #ff8c00; */
+    margin-top: -45px;
+    padding-top: 60px;
+    height: 600px;
+}
+.letters7{
+    margin-top: 110px;
 }
 .desc6{
     font-size: 20px ;
